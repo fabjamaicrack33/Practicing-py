@@ -1,2 +1,2 @@
-#Learning in Python from zero 
-This is my py proyects.
+# Practicing-py
+This is my py proyects
