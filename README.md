@@ -1,1 +1,2 @@
-This is my py proyects.
+# Learning Python from zero
+this is my py project
