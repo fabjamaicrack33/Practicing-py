@@ -1,8 +1,8 @@
 #funciones en python 
-#def frutas(fruta1, fruta2, fruta3):
-  #print('las frutas rojas son:', fruta1, fruta2, fruta3)
+def frutas(fruta1, fruta2, fruta3):
+  print('las frutas rojas son:', fruta1, fruta2, fruta3)
 
-#frutas('sandia', 'manzana ','cereza') 
+frutas('sandia', 'manzana ','cereza') 
 
 #Imprimir una tupla
 def frutas(*fruta):

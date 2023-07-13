@@ -1,10 +1,10 @@
-#dato = input('Ingrese dato: ')
+dato = input('Ingrese dato: ')
 
-#lista = ['ana','jhon','julio','fernando','sandra']
-#if lista.count(dato) > 0:
-   # print('El dato existe:', dato)
-#else:
-   # print('el dato no existe : ',dato)
+lista = ['ana','jhon','julio','fernando','sandra']
+if lista.count(dato) > 0:
+    print('El dato existe:', dato)
+else:
+    print('el dato no existe : ',dato)
 
 #CALCULADORA QUE SUMA# 
 
